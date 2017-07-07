@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2FRestcomm-Mayday-Web.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2FRestcomm-Mayday-Web?ref=badge_shield)
+
 :imagesdir: doc/images/
 
 [[_getting_started_with_RestComm_MayDay_Web_Application_Configuration]]
@@ -127,3 +129,7 @@ image::AGent_Annotation.JPG[align="center"]
 14:	*Customer Screen – Marking done by the agent, customer can see and customer also marking the same thing shown at agent side.*
 
 image::Customer_annotation.JPG[align="center"]
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2FRestcomm-Mayday-Web.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2FRestcomm-Mayday-Web?ref=badge_large)
